@@ -17,7 +17,7 @@ A new Flutter project.
 
 |Returned user Screen                          | New user Screen                              | Chat Screen                |
 |---------------------|---------------------|---------------------|
-| ![Screenshot_1691564306](https://github.com/SpiderMan-XiaoDo/note_app/assets/home_) |![Screenshot_1691564355](https://github.com/SpiderMan-XiaoDo/note_app/assets/90297125/6d52d8fd-c9a9-4c37-81b9-acf9a42e8025)|![Screenshot_1691564461](https://github.com/SpiderMan-XiaoDo/note_app/assets/90297125/7afd5291-1fe0-4540-87e8-cf7e189925a5)|
+| ![Screenshot_1691564306](https://github.com/SpiderMan-XiaoDo/note_app/blob/master/assets/app_demo/home_page.jpg) |![Screenshot_1691564355](https://github.com/SpiderMan-XiaoDo/note_app/blob/master/assets/app_demo/new_note.jpg)|![Screenshot_1691564461](https://github.com/SpiderMan-XiaoDo/note_app/blob/master/assets/app_demo/view_old_note.jpg)|
  | Chat History                                |    Summarize Screen                          | Summarize Screen        |
 |![Screenshot_1691564562](https://github.com/SpiderMan-XiaoDo/note_app/assets/90297125/ae3bda2a-4abb-4da4-a4a0-98c40f528d5d)|![Screenshot_1691564952](https://github.com/SpiderMan-XiaoDo/note_app/assets/90297125/1c3d14b5-6549-42ee-805e-2d94efa9cdaf)|![Screenshot_1691564650](https://github.com/SpiderMan-XiaoDo/note_app/assets/90297125/b6ec9a36-2999-442b-b897-17780e916e10)|
 
