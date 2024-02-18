@@ -55,7 +55,7 @@ flutterfire configure
 ````
 
 Change the 'Rules' in Firestore Database :
-<img width="935" alt="image" src="https://github.com/SpiderMan-XiaoDo/note_app/assets/90297125/c54a01ec-7e84-444a-8604-d5bcfe991663">
+<img width="935" alt="image" src="https://github.com/SpiderMan-XiaoDo/chat_bot/assets/90297125/c54a01ec-7e84-444a-8604-d5bcfe991663">
 
 Change this code:
 ````bash
@@ -89,7 +89,7 @@ Change the 'Rules' in RealTime DataBase:
   }
 }
 ````
-<img width="922" alt="image" src="https://github.com/SpiderMan-XiaoDo/note_app/assets/90297125/e516e133-c39a-46c4-ae74-586c88c4cc10">
+<img width="922" alt="image" src="https://github.com/SpiderMan-XiaoDo/chat_bot/assets/90297125/e516e133-c39a-46c4-ae74-586c88c4cc10">
 
 ## You can build APK file to install this app on your Phone.
 ````bash
