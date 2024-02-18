@@ -15,11 +15,9 @@ A new Flutter project.
 
 ## Screenshots
 
-|Returned user Screen                          | New user Screen                              | Chat Screen                |
+|Home Page                          | New note Screen                             | Edit note Screen                |
 |---------------------|---------------------|---------------------|
 | ![Screenshot_1691564306](https://github.com/SpiderMan-XiaoDo/note_app/blob/master/assets/app_demo/home_page.jpg) |![Screenshot_1691564355](https://github.com/SpiderMan-XiaoDo/note_app/blob/master/assets/app_demo/new_note.jpg)|![Screenshot_1691564461](https://github.com/SpiderMan-XiaoDo/note_app/blob/master/assets/app_demo/view_old_note.jpg)|
- | Chat History                                |    Summarize Screen                          | Summarize Screen        |
-|![Screenshot_1691564562](https://github.com/SpiderMan-XiaoDo/note_app/assets/90297125/ae3bda2a-4abb-4da4-a4a0-98c40f528d5d)|![Screenshot_1691564952](https://github.com/SpiderMan-XiaoDo/note_app/assets/90297125/1c3d14b5-6549-42ee-805e-2d94efa9cdaf)|![Screenshot_1691564650](https://github.com/SpiderMan-XiaoDo/note_app/assets/90297125/b6ec9a36-2999-442b-b897-17780e916e10)|
 
 ## Installation
 
